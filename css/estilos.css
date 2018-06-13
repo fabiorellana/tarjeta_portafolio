@@ -192,6 +192,7 @@ a{text-decoration: none;}
 	width: 100%;
 	text-align: center;
 	padding: 20px 0;
+	transition: 0.3s;
 }
 
 .redes_sociales a{
@@ -204,6 +205,10 @@ a{text-decoration: none;}
 	background: #000;
 	border-radius: 50%;
 	margin: 0 16px;
+}
+
+.redes_sociales:hover{
+	transform: scale(1.2);
 }
 
 .redes_sociales .linkedin{background: #1769ff;}
