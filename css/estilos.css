@@ -86,8 +86,6 @@ a{text-decoration: none;}
 	padding: 20px 0;
 	z-index: 1000;
 	position: relative;
-	text-transform: uppercase;
-	letter-spacing: 5px;
 }
 
 /* Seccion Informacion */
@@ -137,6 +135,8 @@ a{text-decoration: none;}
 	line-height: 38px;
 	font-weight: 600;
 	margin-bottom: 16px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
 }
 
 .slider_info .informacion .trabajo{
@@ -169,6 +169,8 @@ a{text-decoration: none;}
 	font-size: 18px;
 	line-height: 24px;
 	margin-bottom: 16px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
 }
 
 /* Botones Slider Info*/
